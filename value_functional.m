@@ -18,8 +18,8 @@ close all
 %input data ==============================================
 
 % beach profile:
-dire  = '/Users/sergio/Documents/Southampton/Writings/papers/Beach_profile/data/Jenkins_solutions';
-file = 'cyc_prof_f.csv';
+dire  = '/some/folder/here/';
+file = 'somecurve.dat';
 
 n = 1.479;
 
@@ -35,7 +35,7 @@ x = pr(:,1);
 h = pr(:,2);
 
 % central scheme:
-dhdx = (h(3:end) - h(1:end-2))./(x(3:end) - x(1:end-2))./2.0;
+dhdx = (h(3:end) - h(1:end-2))./(x(3:end) - x(1:end-2));
 dhdx = [dhdx(1) ; dhdx ; dhdx(end)];
 
 L = (h.^m).*sqrt(1 + dhdx.^2);
