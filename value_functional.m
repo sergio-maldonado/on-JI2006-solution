@@ -8,8 +8,7 @@
 %
 % supplementary code to:
 % Maldonado, S. and Uchasara, M. (2019) On the thermodynamics-based
-% equilibrium beach profile derived by Jenkins and Inman (2016). arxiv:
-% XXXXXX
+% equilibrium beach profile derived by Jenkins and Inman (2016). arXiv:1908.07825
 
 clear variables
 clc
