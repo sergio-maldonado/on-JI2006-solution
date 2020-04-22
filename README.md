@@ -9,3 +9,5 @@ NOTES:
 +The Matlab code 'value_functional.m' estimates the functional (eq. 2 in Maldonado and Uchasara 2019) numerically for any given curve h(x). Note that J[h(x)] is computed instead of J[x(h)], with necessary modifications having been made to ensure equivalence. 
 
 +The file 'functionals_comparison.xlsx' summarises the values (in arbitrary units) of the functionals yielded by each curve, including Jenkins and Inman's solution. This feeds into table 2 of Maldonado and Uchasara (2019).
+
++The folder 'profiles' includes the Curves A, B and C for each of the six profiles considered.
