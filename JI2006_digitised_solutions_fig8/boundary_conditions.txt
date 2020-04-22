@@ -1,0 +1,39 @@
+Jenkins and Inman's shorerise solution
+Note: hb and hc are h1 and h2, respectively
+
+prof a
+x1 = 229.6;
+hb = 3.38;
+x2 = 749.4;
+hc = 10.2;
+
+prof b
+x1 = 231.1;
+hb = 3.76;
+x2 = 633.2;
+hc = 9.76;
+
+prof c
+x1 = 258.13;
+hb = 3.53;
+x2 = 710.41;
+hc = 10.01;
+
+prof d
+x1 = 196.56;
+hb = 2.26;
+x2 = 548.67;
+hc = 8.89;
+
+prof e
+x1 = 294.16;
+hb = 3.96;
+x2 = 739.1;
+hc = 9.84;
+
+prof f
+x1 = 210.94;
+hb = 2.65;
+x2 = 610.87;
+hc = 9.04;
+
