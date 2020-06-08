@@ -7,8 +7,8 @@
 % University of Southampton
 %
 % supplementary code to:
-% Maldonado, S. and Uchasara, M. (under review) 'Comment on "Thermodynamic
-% solutions for equilibrium beach profiles" by Jenkins and Inman'
+% Maldonado, S. and Uchasara, M. (2019) On the thermodynamics-based
+% equilibrium beach profile derived by Jenkins and Inman
 
 clear variables
 clc
